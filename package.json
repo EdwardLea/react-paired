@@ -1,0 +1,8 @@
+{
+  "name": "react-paired",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EdwardLea/react-paired.git",
+  "author": "edwardlea <leaedward87@gmail.com>",
+  "license": "MIT"
+}
